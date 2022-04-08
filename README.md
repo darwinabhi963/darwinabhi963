@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhishek Manoharan
 - 📫 I'm a Computer Science and Engineering student at MIT, Anna University.
-- 💞️ I’m a person who loves to Learn, and hence Innovate!
-- 👀 I’m interested in Programming, Artificial Intelligence, Internet of Things, and Music!
-- 🌱 I’m currently learning Python Programming and its implementation of Data Structures and Algorithms.
+- 💞️ I’m a person who loves to Learn and Innovate!
+- 👀 I’m interested in Machine Learning, Artificial Intelligence and Internet of Things.
+- 🌱 I’m currently learning Machine Learning and Deep Learning Techniques.
 
 
 <!---
